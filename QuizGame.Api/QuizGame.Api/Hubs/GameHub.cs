@@ -28,7 +28,7 @@ public class GameHub : Hub
         if (question == null)
             throw new HubException("Nie można wystartować gry. Sprawdź czy są gracze i pytania.");
 
-        await Clients.Group(gameId).SendAsync("GameStarted");
+        await Clients.All.SendAsync("state-updated", "InProgress");
         await BroadcastQuestion(gameId, question);
     }
 
@@ -51,7 +51,8 @@ public class GameHub : Hub
             throw new HubException("Nie można dołączyć. Sprawdź kod lobby lub czy nickname nie jest zajęty.");
 
         await Groups.AddToGroupAsync(Context.ConnectionId, gameId);
-        await Clients.Group(gameId).SendAsync("PlayerJoined", nickname);
+        await Clients.All.SendAsync("PlayerJoined", nickname);
+        await Clients.Group(gameId).SendAsync("state-updated", "Waiting");
         return playerId.Value;
     }
 

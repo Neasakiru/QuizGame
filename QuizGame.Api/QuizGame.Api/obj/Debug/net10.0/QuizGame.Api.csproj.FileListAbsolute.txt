@@ -35,3 +35,4 @@ F:\projects\QuizGame\QuizGame.Api\QuizGame.Api\obj\Debug\net10.0\refint\QuizGame
 F:\projects\QuizGame\QuizGame.Api\QuizGame.Api\obj\Debug\net10.0\QuizGame.Api.pdb
 F:\projects\QuizGame\QuizGame.Api\QuizGame.Api\obj\Debug\net10.0\QuizGame.Api.genruntimeconfig.cache
 F:\projects\QuizGame\QuizGame.Api\QuizGame.Api\obj\Debug\net10.0\ref\QuizGame.Api.dll
+F:\projects\QuizGame\QuizGame.Api\QuizGame.Api\obj\Debug\net10.0\QuizGame.Api.sourcelink.json

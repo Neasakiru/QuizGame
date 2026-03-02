@@ -21,11 +21,15 @@ builder.Services.AddSignalR();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("FrontendPolicy", policy =>
+    options.AddDefaultPolicy( policy =>
     {
-        policy.AllowAnyOrigin()
+        policy.WithOrigins(
+            "http://localhost:5173",
+            "http://192.168.1.57:5173")
+              .AllowAnyMethod()
               .AllowAnyHeader()
-              .AllowAnyMethod();
+              .AllowCredentials();
+              
     });
 });
 
@@ -34,7 +38,7 @@ builder.Services.AddSingleton<ILobbyService, LobbyService>();
 
 var app = builder.Build();
 
-app.UseCors("FrontendPolicy");
+app.UseCors();
 
 app.UseSwagger();
 app.UseSwaggerUI(options =>
@@ -43,7 +47,7 @@ app.UseSwaggerUI(options =>
     options.RoutePrefix = "swagger";
 });
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.MapControllers();
 
 // SignalR hub

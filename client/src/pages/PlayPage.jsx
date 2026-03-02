@@ -1,5 +1,5 @@
-import { useParams } from "react-router-dom";
-import { useEffect } from "react";
+import { useParams, useLocation } from "react-router-dom";
+import { useEffect, useRef } from "react";
 import { useGame } from "../context/GameProvider";
 
 import WaitingView from "../components/WaitingView";
@@ -8,21 +8,38 @@ import LeaderboardView from "../components/LeaderboardView";
 
 export default function PlayPage() {
   const { roomId } = useParams();
-  const { gameState, connection } = useGame();
+  const { state } = useLocation();
+  const nickname = state?.nickname;
+  const { gameState, connection, isReady, setPlayerId, setRoomId } = useGame();
+
+  const joinedRef = useRef(false);
 
   useEffect(() => {
-    if (!connection) return;
+    if (!connection || !isReady || !nickname) return;
+    if (joinedRef.current) return;
+    joinedRef.current = true;
 
-    connection.invoke("JoinAsPlayer", roomId, "Player");
-  }, [connection]);
+    const join = async () => {
+      try {
+        const id = await connection.invoke("JoinGame", roomId, nickname);
+        setPlayerId(id);
+        setRoomId(roomId);
+        console.log("playerId:", id);
+      } catch (err) {
+        console.error("JoinGame error:", err.message);
+      }
+    };
 
-  if (gameState === "Lobby")
+    join();
+  }, [connection, isReady]);
+
+  if (gameState === "Waiting")
     return <WaitingView />;
 
-  if (gameState === "QuestionActive")
+  if (gameState === "InProgress")
     return <QuestionView />;
 
-  if (gameState === "Leaderboard")
+  if (gameState === "Finished")
     return <LeaderboardView />;
 
   return null;

@@ -1,7 +1,8 @@
 import * as signalR from "@microsoft/signalr";
 
-export const createConnection = () =>
+export let createConnection = () =>
   new signalR.HubConnectionBuilder()
-    .withUrl("/quizhub")
+    .withUrl('http://localhost:5005/hub/game')
+    // .withUrl('http://192.168.1.57:5005/hub/game')
     .withAutomaticReconnect()
     .build();

@@ -3,60 +3,168 @@
     "Id": "2e2d47d2-5c59-4a37-b983-6615cc409d27",
     "Category": "Geografia",
     "Content": "Jaka jest stolica W\u0142och?",
-    "TimeLimitSeconds": 20,
     "Answers": [
-      { "Id": "8f28bd96-f446-4982-8745-36b8e52d08de", "Content": "Rzym", "IsCorrect": true },
-      { "Id": "bb186450-e2da-4e58-8576-0f9bb8983c4d", "Content": "Mediolan", "IsCorrect": false },
-      { "Id": "a47a4fda-908a-4e15-9341-f148db8bfe1c", "Content": "Florencja", "IsCorrect": false },
-      { "Id": "dbeaefb9-2101-4f3e-bbac-5a6dcd33265b", "Content": "Neapol", "IsCorrect": false }
-    ]
+      {
+        "Id": "8f28bd96-f446-4982-8745-36b8e52d08de",
+        "Content": "Rzym",
+        "IsCorrect": true
+      },
+      {
+        "Id": "bb186450-e2da-4e58-8576-0f9bb8983c4d",
+        "Content": "Mediolan",
+        "IsCorrect": false
+      },
+      {
+        "Id": "a47a4fda-908a-4e15-9341-f148db8bfe1c",
+        "Content": "Florencja",
+        "IsCorrect": false
+      },
+      {
+        "Id": "dbeaefb9-2101-4f3e-bbac-5a6dcd33265b",
+        "Content": "Neapol",
+        "IsCorrect": false
+      }
+    ],
+    "TimeLimitSeconds": 20
   },
   {
     "Id": "2b3c8eb3-77dd-4731-b057-5be85354b8f0",
     "Category": "Historia",
-    "Content": "W kt\u00f3rym roku rozpocz\u0119\u0142a si\u0119 II wojna \u015bwiatowa?",
-    "TimeLimitSeconds": 20,
+    "Content": "W kt\u00F3rym roku rozpocz\u0119\u0142a si\u0119 II wojna \u015Bwiatowa?",
     "Answers": [
-      { "Id": "26940a5f-a800-4aae-9257-4e84c583a4c3", "Content": "1939", "IsCorrect": true },
-      { "Id": "7d319030-7487-418c-8d18-3d7090b94e3c", "Content": "1941", "IsCorrect": false },
-      { "Id": "39279d54-0e26-4d25-af40-e17228b506b1", "Content": "1918", "IsCorrect": false },
-      { "Id": "5ea711ef-ffa5-43cc-88b2-715f0fc40c47", "Content": "1929", "IsCorrect": false }
-    ]
+      {
+        "Id": "26940a5f-a800-4aae-9257-4e84c583a4c3",
+        "Content": "1939",
+        "IsCorrect": true
+      },
+      {
+        "Id": "7d319030-7487-418c-8d18-3d7090b94e3c",
+        "Content": "1941",
+        "IsCorrect": false
+      },
+      {
+        "Id": "39279d54-0e26-4d25-af40-e17228b506b1",
+        "Content": "1918",
+        "IsCorrect": false
+      },
+      {
+        "Id": "5ea711ef-ffa5-43cc-88b2-715f0fc40c47",
+        "Content": "1929",
+        "IsCorrect": false
+      }
+    ],
+    "TimeLimitSeconds": 20
   },
   {
     "Id": "6c616c92-4daa-4bcd-8cd2-a76f4576b2c6",
     "Category": "Technologia",
-    "Content": "Kt\u00f3ry j\u0119zyk jest u\u017cywany w ASP.NET Core?",
-    "TimeLimitSeconds": 15,
+    "Content": "Kt\u00F3ry j\u0119zyk jest u\u017Cywany w ASP.NET Core?",
     "Answers": [
-      { "Id": "67974083-e126-4871-8053-6fd3b3a13ef1", "Content": "C#", "IsCorrect": true },
-      { "Id": "300a2036-4052-4de8-8b62-b08628f082a6", "Content": "Java", "IsCorrect": false },
-      { "Id": "86bea854-813d-4ca7-b139-4288093b22d9", "Content": "Python", "IsCorrect": false },
-      { "Id": "b0b32ab6-699d-43f7-9904-5c584a658746", "Content": "PHP", "IsCorrect": false }
-    ]
+      {
+        "Id": "67974083-e126-4871-8053-6fd3b3a13ef1",
+        "Content": "C#",
+        "IsCorrect": true
+      },
+      {
+        "Id": "300a2036-4052-4de8-8b62-b08628f082a6",
+        "Content": "Java",
+        "IsCorrect": false
+      },
+      {
+        "Id": "86bea854-813d-4ca7-b139-4288093b22d9",
+        "Content": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Id": "b0b32ab6-699d-43f7-9904-5c584a658746",
+        "Content": "PHP",
+        "IsCorrect": false
+      }
+    ],
+    "TimeLimitSeconds": 15
   },
   {
     "Id": "aaef76f2-01b5-4a7b-b07e-16145fc02d60",
     "Category": "Sport",
-    "Content": "Ilu zawodnik\u00f3w liczy dru\u017cyna pi\u0142karska na boisku?",
-    "TimeLimitSeconds": 15,
+    "Content": "Ilu zawodnik\u00F3w liczy dru\u017Cyna pi\u0142karska na boisku?",
     "Answers": [
-      { "Id": "619e5dca-a496-401a-8e1a-3509ebb800a8", "Content": "11", "IsCorrect": true },
-      { "Id": "4d91f555-082b-475c-b9d3-3363010c5fb9", "Content": "10", "IsCorrect": false },
-      { "Id": "b1de7475-1935-4b54-9a24-10d43b56e85e", "Content": "9", "IsCorrect": false },
-      { "Id": "47e046bc-39b6-4963-8a81-1c0be934b90c", "Content": "12", "IsCorrect": false }
-    ]
+      {
+        "Id": "619e5dca-a496-401a-8e1a-3509ebb800a8",
+        "Content": "11",
+        "IsCorrect": true
+      },
+      {
+        "Id": "4d91f555-082b-475c-b9d3-3363010c5fb9",
+        "Content": "10",
+        "IsCorrect": false
+      },
+      {
+        "Id": "b1de7475-1935-4b54-9a24-10d43b56e85e",
+        "Content": "9",
+        "IsCorrect": false
+      },
+      {
+        "Id": "47e046bc-39b6-4963-8a81-1c0be934b90c",
+        "Content": "12",
+        "IsCorrect": false
+      }
+    ],
+    "TimeLimitSeconds": 15
   },
   {
     "Id": "eecba8bd-a521-41fe-b0fa-5a61e21ee209",
     "Category": "Nauka",
     "Content": "Jaki pierwiastek chemiczny ma symbol O?",
-    "TimeLimitSeconds": 20,
     "Answers": [
-      { "Id": "caec3f83-767f-4aec-8040-750127aac5e5", "Content": "Tlen", "IsCorrect": true },
-      { "Id": "b94e0cd5-d28e-48ff-813e-b4b272a83e71", "Content": "O\u0142\u00f3w", "IsCorrect": false },
-      { "Id": "41266eaf-aaa1-4989-8d56-ded22e969bd0", "Content": "Osm", "IsCorrect": false },
-      { "Id": "023a93ea-a45e-410d-81e1-8f46cc826492", "Content": "Z\u0142oto", "IsCorrect": false }
-    ]
+      {
+        "Id": "caec3f83-767f-4aec-8040-750127aac5e5",
+        "Content": "Tlen",
+        "IsCorrect": true
+      },
+      {
+        "Id": "b94e0cd5-d28e-48ff-813e-b4b272a83e71",
+        "Content": "O\u0142\u00F3w",
+        "IsCorrect": false
+      },
+      {
+        "Id": "41266eaf-aaa1-4989-8d56-ded22e969bd0",
+        "Content": "Osm",
+        "IsCorrect": false
+      },
+      {
+        "Id": "023a93ea-a45e-410d-81e1-8f46cc826492",
+        "Content": "Z\u0142oto",
+        "IsCorrect": false
+      }
+    ],
+    "TimeLimitSeconds": 20
+  },
+  {
+    "Id": "d037569d-825c-40d8-a398-1293af04d1d7",
+    "Category": "Geografia",
+    "Content": "Na jakim kontynencie le\u017Cy Australia",
+    "Answers": [
+      {
+        "Id": "c857b907-3ef0-4e48-98ca-60c36b6643e9",
+        "Content": "Europa",
+        "IsCorrect": false
+      },
+      {
+        "Id": "b68a048b-56fb-4ce9-af17-97c9bb7f37bc",
+        "Content": "Azja",
+        "IsCorrect": false
+      },
+      {
+        "Id": "383d3200-cd34-42a9-84df-dcc032e3069c",
+        "Content": "Australia",
+        "IsCorrect": true
+      },
+      {
+        "Id": "d31b0892-86dc-4e8b-842b-4b6de4f69d22",
+        "Content": "Ameryka po\u0142udiowa",
+        "IsCorrect": false
+      }
+    ],
+    "TimeLimitSeconds": 20
   }
 ]
