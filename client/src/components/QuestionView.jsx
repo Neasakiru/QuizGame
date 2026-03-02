@@ -8,10 +8,10 @@ export default function QuestionView() {
   };
 
   if (!question) return <p>Ładowanie pytania...</p>;
+  else console.log(question.content);
 
   return (
     <>
-      <h2>{question.content}</h2>
       {question.answers.map((a) => (
         <button key={a.id} onClick={() => answer(a.id)}>
           {a.content}

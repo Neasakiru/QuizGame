@@ -9,10 +9,10 @@ export default function WaitingView() {
     await connection.invoke("StartGame", roomId);
   };
 
-  return ( 
+  return (
     <>
       <h1>Czekamy na rozpoczęcie gry...</h1>
       <button onClick={handleStart}>Start Game</button>
     </>
-  )
+  );
 }
