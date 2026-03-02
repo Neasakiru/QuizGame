@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\projects\\QuizGame\\QuizGame.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\services\\lobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\services\\lobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\services\\lobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\services\\ilobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\services\\ilobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\services\\ilobbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\controllers\\hostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\controllers\\hostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\controllers\\hostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\models\\answerresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\models\\answerresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\models\\answerresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\models\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\models\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\models\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\data\\questions.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\data\\questions.json||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\data\\questions.json||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\models\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\models\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\models\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|f:\\projects\\quizgame\\quizgame.api\\quizgame.api\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|c:\\users\\aleksander\\desktop\\qz\\quizgame\\quizgame.api\\quizgame.api\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE925EA-AB11-DC65-636B-22EBF8ECFB43}|QuizGame.Api\\QuizGame.Api.csproj|solutionrelative:quizgame.api\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -92,9 +92,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Lobby.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Lobby.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Lobby.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Models\\Lobby.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Lobby.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Lobby.cs",
               "RelativeToolTip": "QuizGame.Api\\Models\\Lobby.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,50 +105,47 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\appsettings.json",
               "RelativeDocumentMoniker": "QuizGame.Api\\appsettings.json",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\appsettings.json",
               "RelativeToolTip": "QuizGame.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-01T19:05:29.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T19:05:29.979Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ScoreEntry.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\ScoreEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\ScoreEntry.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Models\\ScoreEntry.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\ScoreEntry.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\ScoreEntry.cs",
               "RelativeToolTip": "QuizGame.Api\\Models\\ScoreEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T19:05:10.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T19:05:10.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AnswerResult.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\AnswerResult.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\AnswerResult.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Models\\AnswerResult.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\AnswerResult.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\AnswerResult.cs",
               "RelativeToolTip": "QuizGame.Api\\Models\\AnswerResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T19:04:57.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T19:04:57.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameHub.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Hubs\\GameHub.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Hubs\\GameHub.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Hubs\\GameHub.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Hubs\\GameHub.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Hubs\\GameHub.cs",
               "RelativeToolTip": "QuizGame.Api\\Hubs\\GameHub.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAIAxwC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T19:02:48.726Z",
               "EditorCaption": ""
@@ -157,165 +154,153 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GameState.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\GameState.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Models\\GameState.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\GameState.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\GameState.cs",
               "RelativeToolTip": "QuizGame.Api\\Models\\GameState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:20:11.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:20:11.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Program.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Program.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Program.cs",
               "RelativeToolTip": "QuizGame.Api\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:04:12.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:04:12.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "questions.json",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
               "RelativeDocumentMoniker": "QuizGame.Api\\Data\\questions.json",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
               "RelativeToolTip": "QuizGame.Api\\Data\\questions.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-01T18:05:07.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:05:07.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "questions.json",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
               "RelativeDocumentMoniker": "QuizGame.Api\\Data\\questions.json",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Data\\questions.json",
               "RelativeToolTip": "QuizGame.Api\\Data\\questions.json",
               "ViewState": "AgIAAGkAAAAAAAAAAAAAAHQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-01T18:04:24.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:04:24.181Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LobbyService.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\LobbyService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\LobbyService.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Services\\LobbyService.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\LobbyService.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\LobbyService.cs",
               "RelativeToolTip": "QuizGame.Api\\Services\\LobbyService.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:04:11.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:04:11.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ILobbyService.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\ILobbyService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\ILobbyService.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Services\\ILobbyService.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\ILobbyService.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\ILobbyService.cs",
               "RelativeToolTip": "QuizGame.Api\\Services\\ILobbyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:04:05.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:04:05.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "QuestionService.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\QuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\QuestionService.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Services\\QuestionService.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\QuestionService.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\QuestionService.cs",
               "RelativeToolTip": "QuizGame.Api\\Services\\QuestionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:03:58.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:03:58.268Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IQuestionService.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\IQuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\IQuestionService.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Services\\IQuestionService.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\IQuestionService.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Services\\IQuestionService.cs",
               "RelativeToolTip": "QuizGame.Api\\Services\\IQuestionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:03:52.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:03:52.418Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "QuestionController.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\QuestionController.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Controllers\\QuestionController.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\QuestionController.cs",
               "RelativeToolTip": "QuizGame.Api\\Controllers\\QuestionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:03:37.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:03:37.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "GameController.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Controllers\\GameController.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\GameController.cs",
               "RelativeToolTip": "QuizGame.Api\\Controllers\\GameController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:03:31.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:03:31.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HostController.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\HostController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\HostController.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Controllers\\HostController.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\HostController.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Controllers\\HostController.cs",
               "RelativeToolTip": "QuizGame.Api\\Controllers\\HostController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:03:25.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:03:25.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Player.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Player.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Models\\Player.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Player.cs",
               "RelativeToolTip": "QuizGame.Api\\Models\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T18:03:08.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T18:03:08.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Answer.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Answer.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Models\\Answer.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Answer.cs",
               "RelativeToolTip": "QuizGame.Api\\Models\\Answer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,9 +310,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Question.cs",
-              "DocumentMoniker": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Question.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Question.cs",
               "RelativeDocumentMoniker": "QuizGame.Api\\Models\\Question.cs",
-              "ToolTip": "F:\\projects\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\QZ\\QuizGame\\QuizGame.Api\\QuizGame.Api\\Models\\Question.cs",
               "RelativeToolTip": "QuizGame.Api\\Models\\Question.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

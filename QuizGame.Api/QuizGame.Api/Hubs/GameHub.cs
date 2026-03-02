@@ -109,7 +109,7 @@ public class GameHub : Hub
         int total = lobby?.GameQuestions.Count ?? 0;
         int current = (lobby?.CurrentQuestionIndex ?? 0) + 1;
 
-        await Clients.Group(gameId).SendAsync("QuestionStarted", new
+        await Clients.All.SendAsync("QuestionStarted", new
         {
             question.Id,
             question.Content,
